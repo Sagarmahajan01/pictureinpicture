@@ -1,3 +1,4 @@
+alert("thanks for visiting,this project work on only destop/pc");
 const videoElement = document.getElementById('video');
 const button = document.getElementById('button');
 
